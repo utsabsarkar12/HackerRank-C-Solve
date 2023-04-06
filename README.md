@@ -1,1 +1,0 @@
-# HackerRank-C-Solve
